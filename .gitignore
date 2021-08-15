@@ -5,6 +5,7 @@ me
 assets/
 contact_images
 style
+static/
 company_attachments
 *.json
 *.xml
