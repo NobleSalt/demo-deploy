@@ -1,0 +1,21 @@
+__pycache__/
+migrations/
+out
+me
+assets/
+contact_images
+style
+company_attachments
+*.json
+*.xml
+.env
+.vscode
+seed-static
+db.sqlite3
+# *.png
+# *.jpg
+# *.jpeg
+Check.md
+Layout.md
+env/
+skote/demo.py
